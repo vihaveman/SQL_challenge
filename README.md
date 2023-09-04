@@ -6,4 +6,3 @@ The following resources were used:
 
 A. PostgreSQL Reference: https://www.postgresql.org/docs/current/reference.html
 
-B. ChatGPT: https://chat.openai.com/chat
